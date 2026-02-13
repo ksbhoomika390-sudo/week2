@@ -1,6 +1,0 @@
-string = input("Enter a string: ")
-print("Original String:", string)
-print("First 5 characters:", string[0:5])
-print("Last 5 characters:", string[-5:])
-print("Characters from index 2 to 7:", string[2:8])
-print("Reversed string:", string[::-1])
